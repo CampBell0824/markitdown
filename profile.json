@@ -1,0 +1,55 @@
+{
+    "id": "usr_948201",
+    "status": "active",
+    "profile": {
+      "firstName": "Alexander",
+      "lastName": "Morrison",
+      "email": "a.morrison@enterprise-tech.io",
+      "phoneNumber": "+1 (555) 839-2041",
+      "avatarUrl": "https://cdn-provider.com",
+      "dateOfBirth": "1988-11-14",
+      "uuid": "cNoyJM4C1eYoEhPnag8=",
+      "addresses": [
+        {
+          "type": "billing",
+          "street": "1420 Market Street, Suite 400",
+          "city": "San Francisco",
+          "state": "CA",
+          "postalCode": "94102",
+          "country": "United States",
+          "isDefault": true
+        },
+        {
+          "type": "shipping",
+          "street": "884 North Bridge Road",
+          "city": "Austin",
+          "state": "TX",
+          "postalCode": "78701",
+          "country": "United States",
+          "isDefault": false
+        }
+      ]
+    },
+    "preferences": {
+      "language": "en-US",
+      "timezone": "America/Los_Angeles",
+      "theme": "dark",
+      "marketingNotifications": {
+        "email": false,
+        "sms": true,
+        "push": true
+      },
+      "favoriteCategories": ["Cloud Infrastructure", "DevOps Tools", "Cybersecurity"]
+    },
+    "accountMetadata": {
+      "createdAt": "2023-04-12T08:34:21Z",
+      "lastLoginAt": "2026-07-01T22:15:43Z",
+      "subscriptionTier": "Enterprise Plus",
+      "paymentMethod": {
+        "type": "credit_card",
+        "lastFour": "4242",
+        "expiryDate": "2028-12",
+        "billingCycle": "annual"
+      }
+    }
+  }
