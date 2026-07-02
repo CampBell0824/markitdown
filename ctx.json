@@ -1,0 +1,54 @@
+{
+    "id": "ctx_559201",
+    "status": "completed",
+    "session": {
+      "sessionId": "sess_883a91f2c4e0",
+      "ipAddress": "198.51.100.45",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "deviceType": "desktop"
+    },
+    "uuid": "cNAwJMwc3OYqGQnhag==",
+    "transaction": {
+      "orderId": "ord_9901423",
+      "items": [
+        {
+          "productId": "prod_112",
+          "quantity": 2,
+          "unitPrice": 45.00,
+          "tags": ["accessory", "cable"]
+        },
+        {
+          "productId": "prod_773",
+          "quantity": 1,
+          "unitPrice": 899.00,
+          "tags": ["hardware", "electronics"]
+        }
+      ],
+      "totals": {
+        "subtotal": 989.00,
+        "shippingCost": 0.00,
+        "tax": 81.59,
+        "grandTotal": 1070.59
+      }
+    },
+    "securityLog": {
+      "mfaVerified": true,
+      "mfaType": "authenticator_app",
+      "riskScore": 0.02,
+      "flags": []
+    },
+    "history": [
+      {
+        "action": "cart_created",
+        "timestamp": "2026-07-02T01:10:00Z"
+      },
+      {
+        "action": "checkout_initiated",
+        "timestamp": "2026-07-02T01:14:22Z"
+      },
+      {
+        "action": "payment_authorized",
+        "timestamp": "2026-07-02T01:15:01Z"
+      }
+    ]
+  }
