@@ -1,0 +1,56 @@
+{
+    "id": "prod_773019",
+    "status": "in_stock",
+    "details": {
+      "sku": "HW-M3-PRO-MAX",
+      "name": "QuantumX Pro Ultra 34-Inch Curved Monitor",
+      "brand": "LuminaTech Solutions",
+      "description": "Next-generation ultra-wide curved monitor featuring QD-OLED technology, 240Hz refresh rate, and professional-grade color accuracy for creators and developers.",
+      "dimensions": {
+        "width": 81.3,
+        "height": 55.8,
+        "depth": 22.4,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 7.4,
+        "unit": "kg"
+      }
+    },
+    "pricing": {
+      "currency": "USD",
+      "basePrice": 1299.99,
+      "discount": {
+        "type": "percentage",
+        "value": 15.0,
+        "isValidUntil": "2026-07-15T23:59:59Z"
+      },
+      "taxRate": 0.0825
+    },
+    "inventory": {
+      "warehouseLocation": "TX-AUSTIN-04",
+      "quantityAvailable": 142,
+      "reorderLevel": 20,
+      "supplier": {
+        "id": "sup_vdr_881",
+        "name": "OptiDisplay Manufacturing Corp",
+        "contactEmail": "b2b-support@optidisplay.tw"
+      }
+    },
+    "reviews": [
+      {
+        "reviewId": "rev_001",
+        "userId": "usr_102",
+        "rating": 5,
+        "comment": "Perfect color accuracy for video editing. The curve radius is highly immersive.",
+        "timestamp": "2026-06-20T14:22:10Z"
+      },
+      {
+        "reviewId": "rev_002",
+        "userId": "usr_554",
+        "rating": 4,
+        "comment": "Excellent panel quality, but the built-in stand takes up a bit too much desk space.",
+        "timestamp": "2026-06-25T09:05:33Z"
+      }
+    ]
+  }
